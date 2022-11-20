@@ -56,4 +56,6 @@ body {
   text-align: center; /* Выравниваем текст по центру ячейки */
 }
 
-
+a {
+    color: white;
+}
